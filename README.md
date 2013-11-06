@@ -4,11 +4,11 @@
 
 ## What is IftttWebhook?
 
-editing...
+A library enable to outgoing webhook for the ifttt.com service
 
 ## Requirements
 
-editing...
+PHP 5.3 or later
 
 ## Installation
 
@@ -40,7 +40,7 @@ IftttWebhook is open-sourced software licensed under the MIT License - see the L
 
 ## Documentation
 
-editing...
+see example/xmlrpc.php
 
 
 ## Contributing
